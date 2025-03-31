@@ -381,7 +381,7 @@ Max Johannes Hendrikus Witjes, Peter M A van Ooijen<br>
 <br>
 <br>
 
-<b>3. Mandible segmentation from CT data for virtual surgical planning using an augmented <br>
+<b>4. Mandible segmentation from CT data for virtual surgical planning using an augmented <br>
 two-stepped convolutional neural network</b><br>
 Tobias Pankert, Hyun Lee 1, Florian Peters, Frank Hölzle, Ali Modabber, Stefan Raith<br>
 <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10363055/">https://pmc.ncbi.nlm.nih.gov/articles/PMC10363055/</a>
